@@ -4,7 +4,7 @@ from datetime import datetime
 st.set_page_config(page_title="MarketMind", page_icon="📈", layout="wide")
 
 DEMO_VIDEO_URL = "PASTE-YOUR-DEMO-VIDEO-LINK-HERE"
-PRESENTATION_URL = "PASTE-YOUR-PRESENTATION-LINK-HERE"
+PRESENTATION_URL = "https://canva.link/c733lehvflhdhtl"
 
 st.markdown("""
 <style>
