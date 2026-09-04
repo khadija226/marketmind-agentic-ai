@@ -10,7 +10,7 @@ Replace the placeholder with your deployed Streamlit URL.
 
 ## 🎥 Demo Video
 
-**[🎬 Watch the MarketMind Demo](PASTE-YOUR-DEMO-VIDEO-LINK-HERE)**
+**[🎬 Watch the MarketMind Demo](https://youtu.be/kULXZNU9SCk)**
 
 Replace the placeholder with your recorded video link.
 
