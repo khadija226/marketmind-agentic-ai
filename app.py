@@ -3,7 +3,7 @@ from datetime import datetime
 
 st.set_page_config(page_title="MarketMind", page_icon="📈", layout="wide")
 
-DEMO_VIDEO_URL = "PASTE-YOUR-DEMO-VIDEO-LINK-HERE"
+DEMO_VIDEO_URL = "https://youtu.be/kULXZNU9SCk"
 PRESENTATION_URL = "https://canva.link/c733lehvflhdhtl"
 
 st.markdown("""
