@@ -16,7 +16,7 @@ Replace the placeholder with your recorded video link.
 
 ## 📊 Project Presentation
 
-**[📑 Open the MarketMind Presentation](PASTE-YOUR-PRESENTATION-LINK-HERE)**
+**[📑 Open the MarketMind Presentation](https://canva.link/c733lehvflhdhtl)**
 
 Replace the placeholder with your PowerPoint, Google Slides, Canva, or other presentation URL.
 
