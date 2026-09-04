@@ -4,7 +4,7 @@
 
 ## 🌐 Live Streamlit Application
 
-**[🔗 Launch MarketMind on Streamlit](PASTE-YOUR-STREAMLIT-LINK-HERE)**
+**[🔗 Launch MarketMind on Streamlit](https://marketmind-agentic-ai.streamlit.app/)**
 
 Replace the placeholder with your deployed Streamlit URL.
 
